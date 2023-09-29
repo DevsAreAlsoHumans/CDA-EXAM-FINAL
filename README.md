@@ -59,4 +59,4 @@ Contribuez à ce projet en ouvrant des issues, en soumettant des pull requests o
 
 ## 📜 Licence
 
-- Sans
+- GPL-3.0 license
