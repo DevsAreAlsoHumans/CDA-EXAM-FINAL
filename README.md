@@ -4,7 +4,7 @@ CDA-EXAM-PROJECT
 <h1 align="center">🚀 Gestion de Projet Scrum/Agile 🏆</h1>
 
 <p align="center">
-  <img src="lien_vers_votre_image" alt="Logo du projet">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Logo du projet">
 </p>
 
 <p align="center">
