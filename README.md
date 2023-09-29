@@ -1,5 +1,5 @@
-# CDA-JAVA-PROJECT
-CDA-JAVA-PROJECT
+# CDA-EXAM-PROJECT
+CDA-EXAM-PROJECT
 
 <h1 align="center">🚀 Gestion de Projet Scrum/Agile 🏆</h1>
 
